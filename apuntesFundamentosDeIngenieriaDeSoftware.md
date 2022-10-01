@@ -6,25 +6,25 @@ Cada solicitud que tú haces desde tu PC a través de una red trabaja con una ip
 
 Puertos más utilizados:
 
-HTTP: puerto 80;
-HTTPS: puerto 443;
-FTP: puerto 21;
-FTPS/SSH: puerto 22;
-POP3: puerto 110
-POP3 SSL: puerto 995
-IMAP: puerto 143
-IMAP SSL: puerto 993
-SMTP: puerto 25 (alternativas: puerto 26 / puerto 2525)
-SMTP SSL: puerto 587
-MySQL: puerto 3306
-CPanel: puerto 2082
-CPanel SSL: puerto 2083
-WHM (Webhost Manager): puerto 2086
-WHM (Webhost Manager) SSL: puerto 2087
-Webmail: puerto 2095
-Webmail SSL: puerto 2096
-WebDAV/WebDisk: puerto 2077
-WebDAV/WebDisk SSL: puerto 2078
+- HTTP: puerto 80;
+- HTTPS: puerto 443;
+- FTP: puerto 21;
+- FTPS/SSH: puerto 22;
+- POP3: puerto 110
+- POP3 SSL: puerto 995
+- IMAP: puerto 143
+- IMAP SSL: puerto 993
+- SMTP: puerto 25 (alternativas: puerto 26 / puerto 2525)
+- SMTP SSL: puerto 587
+- MySQL: puerto 3306
+- CPanel: puerto 2082
+- CPanel SSL: puerto 2083
+- WHM (Webhost Manager): puerto 2086
+- WHM (Webhost Manager) SSL: puerto 2087
+- Webmail: puerto 2095
+- Webmail SSL: puerto 2096
+- WebDAV/WebDisk: puerto 2077
+- WebDAV/WebDisk SSL: puerto 2078
 
 
 ------------
