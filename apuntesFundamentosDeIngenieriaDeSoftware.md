@@ -50,7 +50,7 @@ Ahora restamos 1 por el puerto 0, porque no es valido y obtenemos los 65.535
 
 - El sistema operativo tiene reservado los puertos del 1 al 1024, para usarlos necesitas elevar los privilegios de usuario.
 
-[Imgur](https://i.imgur.com/o6Ws96f.png)
+[](https://i.imgur.com/o6Ws96f.png)
 
 ----
 
